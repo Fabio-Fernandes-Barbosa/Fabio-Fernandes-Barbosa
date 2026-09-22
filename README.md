@@ -3,16 +3,16 @@ Github Perfil
 ## Olá 👋, Eu sou Fabio! Formado em Análise e Desenvolvimento de Sistemas, pela Uniasselvi, residente em São Paulo - SP/ Brasil.
 Possuo os demais conhecimentos atualmente: 
 
--- HTML
--- CSS
--- SQL
--- React
--- Git
--- Inglês
--- Excel
--- IA
--- Javascript
--- Supabase
+- HTML
+- CSS
+- SQL
+- React
+- Git
+- Inglês
+- Excel
+- IA
+- Javascript
+- Supabase
 
 ## Fabio-Fernandes-Barbosa
 
