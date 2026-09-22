@@ -18,7 +18,7 @@ Possuo os demais conhecimentos atualmente:
 
 ## 🔭 Atualmente, eu trabalho na Atento, como Especialista de Recuperação de Crédito B2B.
 
-##🌱 Meus estudos atuais focam em Front End ## (HTML, CSS, Javascript, React, Git) e Idiomas ## (Inglês Básico).
+## 🌱 Meus estudos atuais focam em Front End  (HTML, CSS, Javascript, React, Git) e Idiomas (Inglês Básico).
 
 ## 📫 Este é meu e-mail para contato: fomedetecnologia@gmail.com / ffabio17@yahoo.com / ffabiojr@icloud.com
 
