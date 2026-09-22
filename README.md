@@ -16,7 +16,7 @@ Possuo os demais conhecimentos atualmente:
 
 ## Fabio-Fernandes-Barbosa
 
-## 🔭 Atualmente, eu trabalho na Atento, como Especialista de Recuperação de Crédito.
+## 🔭 Atualmente, eu trabalho na Atento, como Especialista de Recuperação de Crédito B2B.
 
 ##🌱 Meus estudos atuais focam em Front End ## (HTML, CSS, Javascript, React, Git) e Idiomas ## (Inglês Básico).
 
