@@ -1,4 +1,4 @@
-Github Perfil
+# Github Perfil
 
 ## Olá 👋, Eu sou Fabio! Formado em Análise e Desenvolvimento de Sistemas, pela Uniasselvi, residente em São Paulo - SP/ Brasil.
 Possuo os demais conhecimentos atualmente: 
@@ -24,11 +24,11 @@ Possuo os demais conhecimentos atualmente:
 
 ## Linguagens e Ferramentas que domino: 
 
--- HTML e CSS responsivo,
--- Javascript,
--- SQL básico,
--- React,
--- Git,
--- Inglês.
+- HTML e CSS responsivo,
+- Javascript,
+- SQL básico,
+- React,
+- Git,
+- Inglês.
 
 ## Entre em contato comigo: Linkedin: https://www.linkedin.com/in/f%C3%A1bio-fernandes-888a28225/ / WhatsApp: (11) 985281632.
