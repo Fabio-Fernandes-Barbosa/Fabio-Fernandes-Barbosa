@@ -1,16 +1,34 @@
 Github Perfil
 
-Olá 👋, Eu sou Fabio! Formado em Análise e Desenvolvimento de Sistemas na Uniasselvi residente em São Paulo - SP/ Brasil.
-Possuo os demais conhecimentos atualmente: HTML, CSS, JAVASCRIPT, SQL, PHP, INGLÊS BÁSICO.
+## Olá 👋, Eu sou Fabio! Formado em Análise e Desenvolvimento de Sistemas, pela Uniasselvi, residente em São Paulo - SP/ Brasil.
+Possuo os demais conhecimentos atualmente: 
 
-Fabio-Fernandes-Barbosa
+-- HTML
+-- CSS
+-- SQL
+-- React
+-- Git
+-- Inglês
+-- Excel
+-- IA
+-- Javascript
+-- Supabase
 
-🔭 Atualmente, eu trabalho na Atento, como Especialista de Recuperação de Crédito.
+## Fabio-Fernandes-Barbosa
 
-🌱 Meus estudos atuais focam em Front End (HTML, CSS and Javascript) e Back End (PHP, SQL, MySQL) e Idiomas (Inglês Básico).
+## 🔭 Atualmente, eu trabalho na Atento, como Especialista de Recuperação de Crédito.
 
-📫 Este é meu e-mail para contato: fomedetecnologia@gmail.com / ffabio17@yahoo.com
+##🌱 Meus estudos atuais focam em Front End ## (HTML, CSS, Javascript, React, Git) e Idiomas ## (Inglês Básico).
 
-Linguagens e Ferramentas que domino: HTML e CSS responsivo, Javascript básico, PHP básico e SQL básico, Python Básico.
+## 📫 Este é meu e-mail para contato: fomedetecnologia@gmail.com / ffabio17@yahoo.com / ffabiojr@icloud.com
 
-Entre em contato comigo: Linkedin: https://www.linkedin.com/in/f%C3%A1bio-fernandes-888a28225/ / WhatsApp: (11) 985281632.
+## Linguagens e Ferramentas que domino: 
+
+-- HTML e CSS responsivo,
+-- Javascript,
+-- SQL básico,
+-- React,
+-- Git,
+-- Inglês.
+
+## Entre em contato comigo: Linkedin: https://www.linkedin.com/in/f%C3%A1bio-fernandes-888a28225/ / WhatsApp: (11) 985281632.
