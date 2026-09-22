@@ -1,7 +1,8 @@
 # Github Perfil
 
 ## Olá 👋, Eu sou Fabio! Formado em Análise e Desenvolvimento de Sistemas, pela Uniasselvi, residente em São Paulo - SP/ Brasil.
-Possuo os demais conhecimentos atualmente: 
+
+## Possuo os demais conhecimentos atualmente: 
 
 - HTML
 - CSS
